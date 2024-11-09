@@ -1,0 +1,360 @@
+tweet,label,puntaje positivo,puntaje negativo,puntaje neutral,sentimiento clasificado,valor sentimiento,tiempo fuzzificación,tiempo defuzzificación,tiempo total
+loooooooovvvvvveee kindle dx cool fantastic right,Positivo,0.457,0.31,0.233,Positivo,6.6893563101875335,0.0,0.0,0.0
+reading kindle love lee childs good read,Positivo,0.587,0.0,0.413,Neutro,3.679916819399408,0.0,0.0,0.0
+ok first assesment kindle fucking rocks,Positivo,0.306,0.0,0.694,Neutro,5.21528905876732,0.0,0.0,0.0
+love kindle mine months never looked back new big one huge need remorse,Positivo,0.349,0.113,0.538,Neutro,4.950000000000001,0.0,0.0,0.0
+fair enough kindle think perfect,Positivo,0.667,0.0,0.333,Neutro,4.499389416553595,0.0,0.0,0.0
+big quite happy kindle,Positivo,0.571,0.0,0.429,Neutro,3.4445390819326143,0.0,0.0,0.0
+fuck economy hate aig non loan given asses,Negativo,0.0,0.545,0.455,Positivo,6.918494623655915,0.0,0.0,0.0
+jquery new best friend,Positivo,0.787,0.0,0.213,Neutro,4.9499999999999975,0.0,0.0,0.0
+loves twitter,Positivo,0.787,0.0,0.213,Neutro,4.9499999999999975,0.0,0.0,0.0
+love obama makes jokes,Positivo,0.756,0.0,0.244,Neutro,4.950000000000002,0.0,0.0,0.0
+firmly believe obama pelosi zero desire civil charade slogan want destroy conservatism,Negativo,0.242,0.212,0.545,Neutro,4.949999999999999,0.0,0.0,0.0
+house correspondents dinner last night whoopi barbara amp sherri went obama got standing ovation,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+watchin espn jus seen new nike commerical puppet lebron sh hilarious lmao,Positivo,0.398,0.0,0.602,Neutro,6.018362149845865,0.0,0.0,0.0
+dear nike stop flywire shit waste science ugly love,Negativo,0.313,0.548,0.138,Positivo,6.8594571670907545,0.0,0.0,0.0
+lebron best athlete generation time basketball related want get inter sport debates,Positivo,0.355,0.0,0.645,Neutro,5.569929078014185,0.0,0.0,0.0
+talking guy last night telling die hard spurs fan also told hates lebron james,Negativo,0.112,0.4,0.488,Neutro,4.812769612521473,0.0,0.0,0.0
+love lebron,Positivo,0.808,0.0,0.192,Neutro,4.950000000000001,0.0,0.0,0.0
+lebron beast still cheering til end,Negativo,0.398,0.0,0.602,Neutro,6.018362149845865,0.0,0.0,0.0
+lebron boss,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+lebron hometown hero lol love lakers let go cavs lol,Positivo,0.691,0.0,0.309,Neutro,4.661364839501422,0.0,0.0007212162017822266,0.0007212162017822266
+lebron zydrunas awesome duo,Positivo,0.577,0.0,0.423,Neutro,3.5364023807774254,0.0,0.0,0.0
+lebron beast nobody nba comes even close,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0007264614105224609,0.0,0.0007264614105224609
+downloading apps iphone much fun literally app anything,Positivo,0.32,0.0,0.68,Neutro,5.302805611222446,0.0,0.0,0.0
+good news call visa office saying everything fine relief sick scams stealing,Positivo,0.317,0.439,0.244,Neutro,3.6189379873746765,0.0,0.0,0.0
+awesome come back via,Positivo,0.577,0.0,0.423,Neutro,3.5364023807774254,0.0,0.0,0.0
+montreal long weekend r amp r much needed,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+booz allen hamilton bad ass homegrown social collaboration platform way cool ttiv,Positivo,0.448,0.0,0.552,Positivo,6.783050283050284,0.0,0.0,0.0
+mluc customer innovation award winner booz allen hamilton,Positivo,0.664,0.0,0.336,Neutro,4.476935245728747,0.0,0.0,0.0
+current use nikon love much canon chose video feature mistake,Positivo,0.288,0.164,0.548,Neutro,4.95,0.0,0.0,0.0
+google always good place look mentioned worked mustang w dad,Positivo,0.266,0.0,0.734,Neutro,5.013626816768882,0.0,0.0,0.0
+played android google phone slide screen scares would break fucker fast still prefer iphone,Negativo,0.119,0.333,0.547,Neutro,4.950000000000001,0.0,0.0,0.0
+us planning resume military tribunals guantanamo bay time trial aig execs chrysler debt holders,Negativo,0.0,0.161,0.839,Neutro,4.95,0.0,0.0,0.0
+omg bored amp tattoooos itchy help aha,Negativo,0.248,0.385,0.367,Neutro,4.035278111750933,0.0,0.0,0.0
+itchy miserable,Negativo,0.0,1.0,0.0,Neutro,4.95,0.0,0.0,0.0
+itchy maybe later lol,Negativo,0.406,0.304,0.29,Neutro,5.841094834232846,0.0,0.0,0.0
+rt love nerdy stanford human biology videos makes miss school,Positivo,0.3,0.2,0.5,Neutro,4.950000000000002,0.0,0.0,0.0
+bit crazy steep learning curve lyx really good long docs anything shorter would insane,Positivo,0.166,0.264,0.57,Neutro,4.950000000000001,0.0,0.0,0.0
+listening p danny gokey lt lt lt aww amazing lt much,Positivo,0.297,0.0,0.703,Neutro,5.163961415387469,0.0,0.0,0.0
+going sleep bike ride,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+cant sleep tooth aching,Negativo,0.467,0.0,0.533,Positivo,7.171281443674809,0.0,0.0,0.0
+blah blah blah old old plans today going back sleep guess,Negativo,0.0,0.344,0.656,Neutro,4.414479392624729,0.0,0.0,0.0
+glad didnt bay breakers today freaking degrees san francisco wtf,Negativo,0.181,0.398,0.422,Neutro,4.2524173806609555,0.0,0.0,0.0
+obama administration must stop bonuses aig ponzi schemers,Negativo,0.305,0.186,0.508,Neutro,4.95,0.0,0.0,0.0
+started think citi really deep amp gonna survive turmoil gonna next aig,Negativo,0.0,0.185,0.815,Neutro,4.950000000000001,0.0,0.0,0.0
+shaunwoo hate n aig,Negativo,0.0,0.649,0.351,Neutro,5.535476656415991,0.0,0.0,0.0
+regret going see star trek awesome,Positivo,0.376,0.257,0.367,Neutro,5.7378593158254185,0.0,0.0,0.0
+annoying new trend internets people picking apart michael lewis malcolm gladwell nobody wants read,Negativo,0.0,0.172,0.828,Neutro,4.95,0.0,0.0,0.0
+highly recommend malcolm gladwell,Positivo,0.482,0.0,0.518,Positivo,7.528577044025157,0.0,0.0,0.0
+blink malcolm gladwell amazing book tipping point,Positivo,0.388,0.0,0.612,Neutro,5.899845500193125,0.0,0.0,0.0
+malcolm gladwell might new man crush,Positivo,0.0,0.242,0.758,Neutro,4.949999999999999,0.0,0.0,0.0
+omg commercials alone espn going drive nuts,Negativo,0.0,0.462,0.538,Negativo,2.8497642744892606,0.0,0.0,0.0
+playing twitter api sounds fun may need take class find new friend like generate results api code,Positivo,0.454,0.0,0.546,Positivo,6.898630136986302,0.0,0.0,0.0
+hello twitter api,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+twitter api slow client good,Negativo,0.42,0.0,0.58,Neutro,6.315870683321087,0.0,0.0,0.0
+yahoo answers butt sometimes,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+scrapbooking nic,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+rt five things wolfram alpha better vastly different google,Positivo,0.266,0.0,0.734,Neutro,5.013626816768882,0.0,0.0,0.0
+changed default pic nike basketball cause bball awesome,Positivo,0.369,0.0,0.631,Neutro,5.699330303755083,0.0,0.0,0.0
+rt told nike layoffs started today,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+back worked nike one fav word,Positivo,0.375,0.0,0.625,Neutro,5.759406546344448,0.0,0.0,0.0
+way totally inspired freaky nike commercial,Positivo,0.34,0.27,0.389,Neutro,5.355303867403316,0.0,0.0,0.0
+class supposed come today,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+needs someone explain lambda calculus,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+took graduate field exam computer science today nothing makes feel like idiot lambda calculus,Negativo,0.0,0.311,0.689,Neutro,4.648997190194748,0.0,0.0,0.0
+shout outs east palo alto buildin karizmakaze cal gta also thanks profits doom universal hempz cracka,Positivo,0.27,0.126,0.605,Neutro,4.950000000000003,0.0,0.0,0.0
+yeahhhhhhhhh really lived east palo alto could avoided guess summer,Negativo,0.0,0.211,0.789,Neutro,4.950000000000002,0.0,0.0,0.0
+great stanford course thanks making available public really helpful informative starting,Positivo,0.558,0.0,0.442,Negativo,3.229505582137163,0.0,0.0,0.0
+work til pm lets go lakers,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+damn north korea,Negativo,0.0,0.574,0.426,Neutro,6.406816468104358,0.0,0.0,0.0
+go ahead blow north korea map already,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+north korea please cease douchebaggery china even like anymore,Negativo,0.407,0.0,0.593,Neutro,6.133588317107094,0.0,0.0,0.0
+hell pelosi freakin china whose dime,Negativo,0.0,0.479,0.521,Negativo,2.471709903427382,0.0,0.0,0.0
+burning cash chrysler gm stop financial tsunami bailout means taking handout,Negativo,0.0,0.286,0.714,Neutro,4.790368120085778,0.0,0.0,0.0
+insects infected spinach plant,Negativo,0.0,0.516,0.484,Positivo,7.57998411437649,0.0,0.0,0.0
+wish could catch every mosquito world n burn em slowly bitin shit outta day mosquitos assholes insects,Negativo,0.117,0.32,0.563,Neutro,4.949999999999998,0.0,0.0070858001708984375,0.0070858001708984375
+got back church totally hate insects,Negativo,0.0,0.444,0.556,Negativo,3.1943684633950125,0.0,0.0,0.0
+got mcdonalds goddam eggs make sick yeah laker date go lakers much update well true suck,Negativo,0.265,0.362,0.373,Neutro,4.329012967019954,0.0,0.0,0.0
+omgg ohhdee want mcdonalds damn wonder open lol,Positivo,0.347,0.229,0.424,Neutro,5.405559025608996,0.0,0.0,0.0
+history exam studying ugh,Negativo,0.0,0.483,0.517,Negativo,2.3744134401853834,0.0,0.0,0.0
+hate revision boring totally unprepared exam tomorrow things looking good,Negativo,0.182,0.377,0.44,Neutro,4.4823574408901266,0.0,0.0,0.0
+higher physics exam tommorow lookin forward much,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+bank holiday yet work exam season sucks,Negativo,0.265,0.245,0.49,Neutro,4.9899810566196585,0.0,0.0,0.0
+cheney bush real culprits,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+life bitch dick cheney p bipart tlot tcot hhrs gop dnc,Negativo,0.0,0.47,0.53,Negativo,2.6786944696282884,0.0,0.0,0.0
+dick cheney dishonest speech torture terror obama fred kaplan slate,Negativo,0.0,0.704,0.296,Neutro,5.158500508458908,0.0,0.0,0.0
+republican party bunch anti abortion zealots draw flies dump neal boortz radio,Negativo,0.155,0.385,0.46,Neutro,4.591063174114021,0.0,0.0,0.0
+twitter connections api broken tweets make twitter,Negativo,0.0,0.341,0.659,Neutro,4.4383954923530995,0.0,0.0,0.0
+srsly hate stupid twitter api timeout thing soooo annoying,Negativo,0.0,0.62,0.38,Neutro,5.811665626949471,0.0,0.0,0.0
+really liked learning jquery book worth look,Positivo,0.5,0.0,0.5,Positivo,8.02972972972973,0.0,0.0,0.0
+interesting ad adobe goodby silverstein amp partners youtube adobe cs le sens propre,Positivo,0.184,0.0,0.816,Neutro,4.950000000000001,0.0,0.0,0.0
+goodby silverstein agency new site great,Positivo,0.451,0.0,0.549,Positivo,6.840143520472774,0.0,0.0,0.0
+rt goodby silverstein new site enjoy nice find,Positivo,0.5,0.0,0.5,Positivo,8.02972972972973,0.0,0.0,0.0
+ever amazing psyop goodby silverstein amp partners hp go play effects,Positivo,0.408,0.0,0.592,Neutro,6.146927374301677,0.0,0.0,0.0
+top ten watched viral video chart love nike mostvaluablepuppets campaign wieden amp kennedy,Positivo,0.353,0.0,0.647,Neutro,5.552576738946775,0.0,0.0,0.0
+zomg g,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+ok lots buzz io lucky free g,Positivo,0.735,0.0,0.265,Neutro,4.889119062565392,0.0,0.0,0.0
+got free g android google,Positivo,0.524,0.0,0.476,Negativo,2.542713192759843,0.0,0.0,0.0
+guess retiring g start using developer g woot googleio,Positivo,0.318,0.0,0.682,Neutro,5.2897402726639475,0.0,0.0,0.0
+happy philip googleio today,Positivo,0.552,0.0,0.448,Negativo,3.1221949221949243,0.0,0.0,0.0
+lakers played great cannot wait thursday night lakers vs,Positivo,0.481,0.0,0.519,Positivo,7.503265545561204,0.0,0.0,0.0
+judd apatow creates fake sitcom nbc com market new movie viral marketing best,Positivo,0.325,0.16,0.515,Neutro,4.950000000000002,0.0,0.0,0.0
+viral marketing fail acia pills brand oughta get shut hacking people messenger get msgs day arrrgh,Negativo,0.0,0.189,0.811,Neutro,4.95,0.0,0.0,0.0
+watching night museum lmao,Positivo,0.565,0.0,0.435,Neutro,3.3481825212683685,0.0,0.0,0.0
+loved night museum,Positivo,0.661,0.0,0.339,Neutro,4.454007247149099,0.0,0.0,0.0
+got back movies went see new night museum rachel good,Positivo,0.244,0.0,0.756,Neutro,4.950000000000002,0.0,0.0,0.0
+take date see night museum whenever want looks soooooo good,Positivo,0.344,0.0,0.656,Neutro,5.47786983538646,0.0,0.0,0.0
+watching night museum getting really good,Positivo,0.39,0.0,0.61,Neutro,5.922777417261518,0.0,0.0,0.0
+night museum wolverine junk food perfect monday,Positivo,0.381,0.0,0.619,Neutro,5.822388527054109,0.0,0.0,0.0
+saw night museum last night pretty crazy movie cast awesome well worth robin williams forever,Positivo,0.477,0.101,0.422,Neutro,6.632863684395915,0.0,0.0,0.0
+night museum tonite instead oh well yr old better enjoy lol,Negativo,0.611,0.0,0.389,Neutro,3.981224777400551,0.0,0.0,0.0
+unfortunate stimulus plan put place twice help gm back american people led inevitable,Negativo,0.162,0.18,0.659,Neutro,4.95,0.0,0.0,0.0
+tell giving gm use programs support unemployed,Negativo,0.505,0.0,0.495,Negativo,2.0602564102564105,0.0,0.0,0.0
+oh yes gm dies worth boo hahaha,Negativo,0.672,0.0,0.328,Neutro,4.535672514619882,0.0,0.0,0.0
+time warner cable rd time since memorial day bummer,Negativo,0.0,0.245,0.755,Neutro,4.9499999999999975,0.0,0.0,0.0
+would rather pay reasonable yearly taxes free fast internet get gouged time warner slow connection,Negativo,0.186,0.079,0.734,Neutro,4.950000000000002,0.0,0.0,0.0
+nooooooo dvr died half way ea presser hate time warner,Negativo,0.0,0.477,0.523,Negativo,2.519276204762797,0.0,0.0,0.0
+f ck time warner cable f cking suck balls hd tv amp damn hd channels hardly ever come bullshit,Negativo,0.0,0.395,0.605,Neutro,3.911147540983607,0.0,0.0,0.0
+time warner worse customer service ever never use,Negativo,0.0,0.307,0.693,Neutro,4.6734952431036945,0.0,0.0,0.0
+time warner devil worst possible time internet go,Negativo,0.0,0.586,0.414,Neutro,6.2292752792896025,0.0,0.0,0.0
+fuck internet damn time warner,Negativo,0.0,0.674,0.326,Neutro,5.343555646481178,0.0,0.0,0.0
+time warner really picks worst time work want get mtv com watch hills wtfffff,Negativo,0.074,0.248,0.679,Neutro,4.950000000000001,0.0,0.0,0.0
+hate time warner soooo wish vios cant watch fricken mets game w buffering feel like im watching free internet porn,Negativo,0.312,0.136,0.551,Neutro,4.95,0.0,0.0,0.0
+ahh got rid stupid time warner today amp taking nap roomies cook pretty good end monday,Negativo,0.271,0.151,0.578,Neutro,4.95,0.0,0.0,0.0
+time warner hd line crap,Negativo,0.0,0.394,0.606,Neutro,3.9230568256041822,0.0,0.0,0.0
+fucked time warner cable didnt know modems could explode susan boyle sucks,Negativo,0.0,0.408,0.592,Neutro,3.747478933554358,0.0,0.0,0.0
+time warner cable slogan calling day pm happens,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+recovering surgery wishing,Negativo,0.487,0.0,0.513,Positivo,7.6591165792658344,0.0,0.0,0.0
+wrist still hurts get looked hate dr dentist scary places time watch eagle eye want join txt,Positivo,0.137,0.392,0.471,Neutro,4.662540935426986,0.0,0.0,0.0
+dentist lied u feel discomort prob even need pain pills man u twippin shit hurt many pills take,Negativo,0.0,0.518,0.482,Positivo,7.528577044025157,0.0,0.0,0.0
+dentist great expensive,Negativo,0.672,0.0,0.328,Neutro,4.535672514619882,0.0,0.0,0.0
+studing math tomorrow exam dentist,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+dentist wrong wrong,Negativo,0.0,0.861,0.139,Neutro,4.95,0.0,0.0,0.0
+going dentist later,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+son looking cars online hate car shopping would rather go dentist anyone good car good price sell,Negativo,0.247,0.157,0.596,Neutro,4.950000000000001,0.0,0.0,0.0
+luke got stopped walking safeway asked empty pockets lift shirts jacked,Negativo,0.0,0.291,0.709,Neutro,4.764344076259646,0.0,0.0,0.0
+safeway rock n roll tonight,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+safeway bathroom still smells like ass,Negativo,0.25,0.35,0.4,Neutro,4.36509695290859,0.0,0.0,0.0
+safeway elkhorn move like dead,Negativo,0.255,0.439,0.306,Negativo,3.302154898218831,0.0,0.0,0.0
+love dwight howard vitamin water commercial wish nike adidas lol,Positivo,0.665,0.0,0.335,Neutro,4.484471886495008,0.0,0.0,0.0
+found nothing nike factory banana republic outlet,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+lovin nike already running spot bedroom,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+finally got around using jquery make bio collapse yay slide animations,Positivo,0.218,0.205,0.577,Neutro,4.950000000000001,0.0,0.0,0.0
+right lol get high expectations warren buffet style,Positivo,0.286,0.0,0.714,Neutro,5.106157150528012,0.0,0.0,0.0
+rt rt great someone sitting shade today someone planted tree long time ago warren buffet,Positivo,0.227,0.0,0.773,Neutro,4.949999999999999,0.0,0.0,0.0
+warren buffet became time richest man united states working investing big idea lead fortune,Positivo,0.341,0.0,0.659,Neutro,5.4540821829163075,0.0,0.0,0.0
+according create school notre dame receivers ncaa higher rating sweet,Positivo,0.389,0.0,0.611,Neutro,5.911265511892451,0.0,0.0,0.0
+definitely warranty amp experience amazon support kindle great contact kindle,Positivo,0.651,0.0,0.349,Neutro,4.3734750207010755,0.0,0.0,0.0
+time warner road runner customer support absolutely blows hate high speed net options ready go nuclear,Negativo,0.234,0.179,0.586,Neutro,4.950000000000001,0.0,0.0,0.0
+time warner cable phone reps r dumber nails ugh cable working mins ago wtf,Negativo,0.0,0.476,0.524,Negativo,2.542713192759843,0.0,0.0,0.0
+tried time warner nice recorded today,Negativo,0.359,0.0,0.641,Neutro,5.605413187446012,0.0,0.0,0.0
+omg time warner f ed internet install instead today next saturday another week w internet amp ehfa v fhg fml,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.008004903793334961,0.008004903793334961
+wth never seen line loooong time warner ugh,Negativo,0.0,0.508,0.492,Positivo,7.796127562642369,0.0,0.0,0.0
+impatiently awaiting arrival time warner guy way pretty inside afternoon,Negativo,0.23,0.194,0.576,Neutro,4.950000000000001,0.0,0.0,0.0
+naive bayes using em text classification really frustrating,Negativo,0.0,0.469,0.531,Negativo,2.70079400884237,0.0,0.0,0.0
+went stanford university today got tour made want go back college also decided kids go,Positivo,0.085,0.0,0.915,Neutro,4.95,0.0,0.0,0.0
+harassed calls car warranty changing number fix call every number bags,Negativo,0.184,0.248,0.567,Neutro,4.950000000000001,0.0,0.0,0.0
+blocked united blood services using google voice call car warranty guys,Negativo,0.201,0.151,0.647,Neutro,4.95,0.0,0.0,0.0
+amp complete fail,Negativo,0.0,0.636,0.364,Neutro,5.6514667918329025,0.0,0.0,0.0
+oh snap work amp,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+really dont want amp phone service suck comes signal,Negativo,0.0,0.386,0.614,Neutro,4.015043687476258,0.0,0.0,0.0
+say cut small talk amp new slogan fk give us money apologies bob geldof,Negativo,0.0,0.139,0.861,Neutro,4.95,0.0,0.0,0.0
+pissed amp mid contract upgrade price iphone going pay something thought,Negativo,0.0,0.384,0.616,Neutro,4.037157577280722,0.0,0.0,0.0
+safari fast even shitty amp tethering,Negativo,0.0,0.419,0.581,Neutro,3.595165486341959,0.0,0.0,0.0
+amp fucking,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+amp dropped ball supporting crap new iphone fail att sucks,Negativo,0.166,0.491,0.343,Negativo,2.410665414542527,0.0,0.0,0.0
+yay glad got phone still damn amp,Negativo,0.489,0.206,0.305,Positivo,7.591083835108846,0.0,0.0,0.0
+talk cheap bing stick google,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+wtf point deleting tweets still found summize searches twitter please fix thanks bye,Negativo,0.274,0.2,0.526,Neutro,4.950000000000002,0.0,0.0,0.0
+love google translator good day mate,Positivo,0.64,0.0,0.36,Neutro,4.277426766226305,0.0,0.0,0.0
+reading new kindle,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+kindle came love,Positivo,0.677,0.0,0.323,Neutro,4.570548186998841,0.0,0.0,0.0
+loving new kindle named kendra case u wondering cookbook tool cuz tells u tricks best gift evr,Positivo,0.468,0.064,0.468,Neutro,5.803844492440605,0.0,0.0,0.0
+real aig scandal,Negativo,0.0,0.592,0.408,Neutro,6.146927374301677,0.0,0.0,0.0
+obama quite good comedian check dinner speech cnn funny jokes,Positivo,0.646,0.0,0.354,Neutro,4.330785658086997,0.0,0.0,0.0
+barack obama shows funny side gt gt great speech,Positivo,0.691,0.0,0.309,Neutro,4.661364839501422,0.0,0.0,0.0
+like guy barack obama shows funny side gt gt,Positivo,0.658,0.0,0.342,Neutro,4.430479267635974,0.0,0.0,0.0
+obama speech pretty awesome last night,Positivo,0.646,0.0,0.354,Neutro,4.330785658086997,0.0,0.0,0.0
+reading bill clinton fail obama win,Positivo,0.336,0.31,0.354,Neutro,5.113733457162757,0.0,0.0,0.0
+obama popular u among arabs survey president barack obama popularity leading arab countries,Positivo,0.371,0.0,0.629,Neutro,5.7190275350967035,0.0,0.0,0.0
+obama got jokes haha got watch bit dinner speech last night love mr president,Positivo,0.455,0.0,0.545,Positivo,6.9184946236559135,0.0,0.0,0.0
+lebron james got car accident guess heard evening news wow cant believe ok,Negativo,0.202,0.265,0.532,Neutro,4.949999999999999,0.0,0.0,0.0
+best playoffs years oh yea lebron melo finals,Positivo,0.375,0.0,0.625,Neutro,5.759406546344448,0.0,0.0,0.0
+lebron best,Positivo,0.808,0.0,0.192,Neutro,4.950000000000001,0.0,0.0,0.0
+lebron cool like personality good character,Positivo,0.72,0.0,0.28,Neutro,4.820429636124509,0.0,0.0,0.0
+watching lebron highlights damn niggas good,Positivo,0.264,0.464,0.273,Negativo,2.8599271402550084,0.0,0.0,0.0
+lebron murdering shit,Positivo,0.0,0.888,0.112,Neutro,4.9499999999999975,0.0,0.0,0.0
+lebron monsta smh world ready,Positivo,0.321,0.295,0.385,Neutro,5.096789211751487,0.0,0.0,0.0
+lebron done nba probably greater kobe like u said kobe good alot good players,Positivo,0.545,0.0,0.455,Negativo,2.9900676246830122,0.0,0.0,0.0
+kobe good bt lebron vote,Positivo,0.42,0.0,0.58,Neutro,6.315870683321087,0.0,0.0,0.0
+kobe best world lebron,Negativo,0.583,0.0,0.417,Neutro,3.623885624193779,0.0,0.0,0.0
+world cup access damn good look,Positivo,0.302,0.281,0.417,Neutro,5.055220076463091,0.0,0.0,0.0
+bought tickets fifa world cup south africa going great summer,Positivo,0.313,0.0,0.687,Neutro,5.257848652350437,0.0,0.0,0.0
+go booz allen hamilton hr meeting get go home,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+great indian tamasha truly unfold may result day indian general election,Positivo,0.438,0.0,0.562,Neutro,6.603244790838237,0.0,0.0,0.0
+kindle seen pictures dx seen person love kindle everyday,Positivo,0.276,0.263,0.461,Neutro,5.0056058740766805,0.0,0.0,0.0
+awesome idea continual learning program kindle,Positivo,0.451,0.0,0.549,Positivo,6.840143520472774,0.0,0.0,0.0
+ooooh model getting love love love love,Positivo,0.848,0.0,0.152,Neutro,4.949999999999999,0.0,0.0,0.0
+times india wonder india election,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+good video google using search options,Positivo,0.367,0.0,0.633,Neutro,5.679966769522905,0.0,0.0,0.0
+lol ah skin itchy damn lawnmowing,Negativo,0.264,0.453,0.283,Negativo,3.084710458081245,0.0,0.0,0.0
+itchy back dont ya hate,Negativo,0.37,0.259,0.37,Neutro,5.6681776696075445,0.0,0.0,0.0
+stanford charity fashion show top draw,Positivo,0.535,0.0,0.465,Negativo,2.7871181938911023,0.0,0.0,0.0
+stanford university facebook profile one popular official university pages,Positivo,0.259,0.0,0.741,Neutro,4.984686536485097,0.0,0.0,0.0
+lyx cool,Positivo,0.697,0.0,0.303,Neutro,4.697282121455197,0.0,0.0,0.0
+sooo dissapointed sent danny gokey home still rock danny hometown hero yeah milrockee,Positivo,0.345,0.0,0.655,Neutro,5.485913566739606,0.0,0.0,0.0
+rt american idol fashion adam lambert tones danny gokey cute,Positivo,0.25,0.0,0.75,Neutro,4.95,0.0,0.0,0.0
+love danny gokey,Positivo,0.677,0.0,0.323,Neutro,4.570548186998841,0.0,0.0,0.0
+tired sleep well last night,Negativo,0.263,0.362,0.375,Neutro,4.319359027326921,0.0,0.0,0.0
+boarding plane san francisco hour hr flight blech,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+bonjour san francisco back hurts last night,Negativo,0.0,0.341,0.659,Neutro,4.4383954923530995,0.0,0.0,0.0
+best girl hours san francisco mmmmmfamily wonderful,Positivo,0.612,0.0,0.388,Neutro,3.992585502807554,0.0,0.0,0.0
+f big go home aig,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+went see star trek movie last night satisfying,Positivo,0.3,0.0,0.7,Neutro,5.1805620608899305,0.0,0.0,0.0
+wait going see star trek tonight,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+star trek good everyone said,Positivo,0.42,0.0,0.58,Neutro,6.315870683321087,0.0,0.0,0.0
+loving new malcolm gladwell book outliers,Positivo,0.438,0.0,0.562,Neutro,6.603244790838237,0.0,0.0,0.0
+highly recommend malcolm gladwell tipping point next audiobook probably one well,Positivo,0.352,0.0,0.648,Neutro,5.543995510662176,0.0,0.0,0.0
+malcolm gladwell genius tricking people realizing fucking idiot,Negativo,0.103,0.336,0.561,Neutro,4.95,0.0,0.0,0.0
+hey offense malcolm gladwell pretenious annoying cunt brings cant read shit,Negativo,0.164,0.443,0.393,Neutro,3.6671101703457314,0.0,0.0,0.0
+rt great article malcolm gladwell,Positivo,0.506,0.0,0.494,Negativo,2.0877551020408163,0.0,0.0,0.0
+seriously underestimated malcolm gladwell want meet dude,Positivo,0.143,0.418,0.44,Neutro,4.264470454974511,0.0,0.0,0.0
+hate comcast right everything cable internet amp phone ughh,Negativo,0.0,0.316,0.684,Neutro,4.617160870850162,0.0,0.0,0.0
+comcast sucks,Negativo,0.0,0.714,0.286,Neutro,5.106157150528012,0.0,0.0,0.0
+day never deal comcast rank one best days life,Negativo,0.344,0.0,0.656,Neutro,5.47786983538646,0.0,0.0,0.0
+comcast fail,Negativo,0.0,0.778,0.222,Neutro,4.95,0.0,0.0,0.0
+curses twitter api limit,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+see dave winer screams lack twitter api limitations access throttles,Negativo,0.0,0.36,0.64,Neutro,4.277426766226305,0.0,0.0,0.0
+arg twitter api making crazy,Negativo,0.0,0.375,0.625,Neutro,4.132513661202186,0.0,0.0,0.0
+really loving new search site wolfram alpha makes google seem quaint,Positivo,0.295,0.0,0.705,Neutro,5.153075328265376,0.0,0.0,0.0
+wolfram alpha sucks even researchers information provided less get google wikipedia totally useless,Negativo,0.0,0.337,0.663,Neutro,4.4693459625357175,0.0,0.0,0.0
+nike factory,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+new nike muppet commercials pretty cute live together,Positivo,0.508,0.0,0.492,Negativo,2.1419191919191927,0.0,0.0,0.0
+oh awesome wish owned nike,Negativo,0.694,0.0,0.306,Neutro,4.679500619460592,0.0,0.0,0.0
+awesome seeing show friday shoreline amphitheatre never seen nin wait,Positivo,0.313,0.0,0.687,Neutro,5.257848652350437,0.0,0.0,0.0
+arhh weka bug spent almost two hours find crappy,Negativo,0.0,0.31,0.69,Neutro,4.655239014968614,0.0,0.0,0.0
+hey bud np love although love mkii,Positivo,0.73,0.0,0.27,Neutro,4.8672333191670205,0.0,0.0,0.0
+got us office,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+picked new canon beautiful prepare seriously awesome photography,Positivo,0.544,0.116,0.34,Neutro,3.7728686327077745,0.0,0.0,0.0
+got new toy canon love love love,Positivo,0.759,0.0,0.241,Neutro,4.949999999999999,0.0,0.0,0.0
+learning lambda calculus,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+moving east palo alto,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+atebits finished watching stanford iphone class session really appreciate rock,Positivo,0.25,0.0,0.75,Neutro,4.95,0.0,0.0,0.0
+hi saw stanford talk really liked advice saying hi singapore yes videos get around,Positivo,0.326,0.0,0.674,Neutro,5.343555646481179,0.0,0.008098363876342773,0.008098363876342773
+lakers tonight let go,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+lakers kick nuggets ass tonight,Positivo,0.0,0.467,0.533,Negativo,2.7443650013406033,0.0,0.0,0.0
+oooooooh north korea troubleeeee,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+wat heck north korea conducted powerful nuclear tests follow link,Negativo,0.237,0.0,0.763,Neutro,4.95,0.0,0.0,0.0
+listening obama friggin north korea,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+realized three monkeys white obama biden pelosi sarah palin,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+pelosi stay china never come back,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+nancy pelosi gave worst commencement speech ever heard yes still bitter,Negativo,0.153,0.392,0.455,Neutro,4.528193832599117,0.0,0.0,0.0
+ugh amount times stupid insects bitten grr,Negativo,0.0,0.554,0.446,Positivo,6.745793467502474,0.0,0.0,0.0
+prettiest insects ever pink katydids,Positivo,0.481,0.0,0.519,Positivo,7.503265545561204,0.0,0.0,0.0
+got barraged horde insects hungry kitchen light scary,Negativo,0.0,0.314,0.686,Neutro,4.630022507094629,0.0,0.0,0.0
+mcdonalds dinner goooood big mac meal,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+ahh yes lol ima tell hubby go get sum mcdonalds,Positivo,0.407,0.0,0.593,Neutro,6.133588317107094,0.0,0.0,0.0
+stopped lunch mcdonalds chicken nuggetssss yummmmmy,Positivo,0.0,0.275,0.725,Neutro,4.844195079844624,0.0,0.0,0.0
+could go lot mcdonalds mean lot,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+exam went good prayers worked,Positivo,0.42,0.0,0.58,Neutro,6.315870683321087,0.0,0.0,0.0
+one exam left happy,Positivo,0.552,0.0,0.448,Negativo,3.1221949221949243,0.0,0.0,0.0
+math review im going fail exam,Negativo,0.0,0.412,0.588,Neutro,3.693639427127213,0.0,0.0,0.0
+colin powell rocked yesterday cbs cheney needs shut hell go home powell man honor served country proudly,Negativo,0.268,0.181,0.551,Neutro,4.949999999999998,0.0,0.0,0.0
+obviously siding cheney,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+absolutely hilarious,Positivo,0.75,0.0,0.25,Neutro,4.95,0.0,0.0,0.0
+never thank including top twitter authors rock amp new wave,Positivo,0.0,0.316,0.684,Neutro,4.617160870850162,0.0,0.0,0.0
+rt awesome jquery reference book coda webdesign,Positivo,0.406,0.0,0.594,Neutro,6.120360110803324,0.0,0.0,0.0
+sending e mails like crazy today contacts anyone contact goodby silverstein love speak,Positivo,0.37,0.133,0.497,Neutro,4.976365578272812,0.0,0.0,0.0
+goodby silverstein new site enjoy,Positivo,0.444,0.0,0.556,Positivo,6.709218698921217,0.0,0.0,0.0
+wow everyone google conference got free g month unlimited service,Positivo,0.504,0.0,0.496,Negativo,2.0324742268041245,0.0,0.0,0.0
+dood got free google android phone conference g,Positivo,0.355,0.0,0.645,Neutro,5.569929078014185,0.0,0.0,0.0
+g amazing btw huge improvement g,Positivo,0.901,0.0,0.099,Neutro,4.949999999999999,0.0,0.0,0.0
+html demos lots great stuff come yes excited io googleio,Positivo,0.568,0.0,0.432,Neutro,3.3969460986410134,0.0,0.0,0.0
+yay happy place place place love google,Positivo,0.739,0.0,0.261,Neutro,4.90615206515897,0.0,0.0,0.0
+googleio bringing graphics browser nice tbh funfun,Positivo,0.318,0.0,0.682,Neutro,5.2897402726639475,0.0,0.0,0.0
+awesome viral marketing funny people,Positivo,0.7,0.0,0.3,Neutro,4.7147196261682245,0.0,0.0,0.0
+saw night museum sheer desperation funding movies,Negativo,0.0,0.333,0.667,Neutro,4.499389416553595,0.0,0.0,0.0
+night museum pretty furkin good,Positivo,0.67,0.0,0.33,Neutro,4.521384297520662,0.0,0.0,0.0
+watching night museum giggling,Positivo,0.455,0.0,0.545,Positivo,6.9184946236559135,0.0,0.0,0.0
+back seeing star trek night museum star trek amazing night museum eh,Negativo,0.257,0.0,0.743,Neutro,4.976813074565885,0.0,0.0,0.0
+watched night museum stinkin cute,Positivo,0.429,0.0,0.571,Neutro,6.454102995110025,0.0,0.0,0.0
+night museum awesome much better part next weekend see,Positivo,0.5,0.0,0.5,Positivo,8.02972972972973,0.0,0.0,0.0
+saw new night museum loved next go see,Positivo,0.358,0.0,0.642,Neutro,5.596442914515203,0.0,0.0,0.0
+shame gm forced make cars white house thinks sell think,Negativo,0.0,0.433,0.567,Neutro,3.380831160864899,0.0,0.0,0.0
+u may noticed happy gm situation aig lehman et al,Negativo,0.316,0.0,0.684,Neutro,5.276853133030245,0.0,0.0,0.0
+gm good riddance sad though,Negativo,0.322,0.344,0.333,Neutro,4.799400391581008,0.0,0.0,0.0
+never buy government motors vehicle recently drove gm cars since bought,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+old coca cola guy gm board stupid heck tcot ala,Negativo,0.0,0.274,0.726,Neutro,4.848859822734704,0.0,0.0,0.0
+rantsandraves worst thing gm concord pleasant hill martinez fucking uaw,Negativo,0.214,0.266,0.519,Neutro,4.950000000000001,0.0,0.0,0.0
+give man fish u feed day teach fish u feed life buy gm u f k good,Negativo,0.209,0.0,0.791,Neutro,4.949999999999999,0.0,0.0,0.0
+hear gm thing angry get billions wasted bullshit something like k employees,Negativo,0.126,0.52,0.354,Positivo,6.939616810877626,0.0,0.0,0.0
+gm car junk far quality compared honda,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+sad day bankrupt gm,Negativo,0.0,0.77,0.23,Neutro,4.95,0.0,0.0,0.0
+upset whole gm thing life know screwed,Negativo,0.0,0.537,0.463,Positivo,7.083991776903826,0.0,0.0,0.0
+whoever running time warner needs repeatedly raped rhino understand consequences putting shitty cable svcs,Negativo,0.0,0.406,0.594,Neutro,3.773773636612773,0.0,0.0,0.0
+wftb joining bit late connection boo time warner,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+cox time warner cox cheaper gets b dslreports tw expensive gets c,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+furious time warner phone promotions,Negativo,0.0,0.481,0.519,Negativo,2.4234248016062714,0.0,0.0,0.0
+got home chick fil boys damn internets stupid time warner,Negativo,0.0,0.433,0.567,Neutro,3.380831160864899,0.0,0.0,0.0
+could time warner cable suck,Negativo,0.0,0.42,0.58,Neutro,3.580624092888243,0.0,0.0,0.0
+pissed time warner causin slow internet problems,Negativo,0.0,0.58,0.42,Neutro,6.315870683321089,0.0,0.0,0.0
+ummm time warner problems,Negativo,0.0,0.474,0.526,Negativo,2.5889114766216976,0.0,0.0,0.0
+guys see time warner suck much ass really wish could get u verse apartment,Negativo,0.154,0.33,0.516,Neutro,4.950000000000002,0.0,0.0,0.0
+rt upside time warner unhelpful phone operators superslow site service crap upside,Negativo,0.0,0.191,0.809,Neutro,4.950000000000001,0.0,0.0,0.0
+rt new time warner slogan time warner make long days cable,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+confirmed time warner fault facebook fb taking minutes load tempted switch verizon,Negativo,0.0,0.197,0.803,Neutro,4.95,0.0,0.0,0.0
+time warner epic fail,Negativo,0.0,0.538,0.462,Positivo,7.062693470912648,0.0,0.0,0.0
+know sad rt st day hurricane season less scarey govt taking gm,Negativo,0.0,0.355,0.645,Neutro,4.322053017484489,0.0,0.0,0.0
+gm files bankruptcy good sign,Negativo,0.42,0.0,0.58,Neutro,6.315870683321087,0.0,0.0,0.0
+yankees mets lost good day,Positivo,0.354,0.28,0.366,Neutro,5.418805440567712,0.0,0.0,0.0
+dentist appt today actually quite enjoyable,Positivo,0.39,0.0,0.61,Neutro,5.922777417261518,0.0,0.0,0.0
+hate effing dentist,Negativo,0.0,0.649,0.351,Neutro,5.535476656415991,0.0,0.0,0.0
+hate going dentist,Negativo,0.0,0.649,0.351,Neutro,5.535476656415991,0.0,0.0,0.0
+hate dentist invented anyways,Negativo,0.0,0.552,0.448,Positivo,6.783050283050281,0.0,0.0,0.0
+dentist office cold,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+applied safeway yeeeee,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+safeway place nightmare right bumming,Negativo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+hate safeway select green tea icecream bought two cartons waste money gt lt,Negativo,0.113,0.349,0.538,Neutro,4.950000000000001,0.0,0.0,0.0
+nike rocks super grateful done amp european division nike beyond,Positivo,0.463,0.0,0.537,Positivo,7.083991776903828,0.0,0.0,0.0
+tried nike v addictive,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+nike training club beta iphone app looks interesting,Positivo,0.278,0.0,0.722,Neutro,5.067242432173079,0.0,0.0,0.0
+argghhhh jquery appear safari bad safari,Negativo,0.0,0.412,0.588,Neutro,3.693639427127213,0.0,0.0,0.0
+ready drop pretenses forever love jquery want marry sorry ladies nerd jquery spokenfor js,Positivo,0.37,0.259,0.37,Neutro,5.6681776696075445,0.0,0.0,0.0
+super investors great weekend read warren buffet oldie goodie,Positivo,0.533,0.0,0.467,Negativo,2.7443650013406042,0.0,0.0,0.0
+reading michael palin book python years great book also recommend warren buffet amp nelson mandela bio,Positivo,0.32,0.0,0.68,Neutro,5.302805611222446,0.0,0.0,0.0
+mean notre dame good school closer dan enjoy,Positivo,0.504,0.0,0.496,Negativo,2.0324742268041245,0.0,0.0,0.0
+watch tv without tivo years time warner dvr still sucks,Negativo,0.0,0.217,0.783,Neutro,4.95,0.0,0.0,0.0
+say sports writers idiots saying roger federer one best ever tennis roger federer best ever tennis,Positivo,0.375,0.0,0.625,Neutro,5.759406546344448,0.0,0.0,0.0
+still love kindle reading new york times feel natural miss bloomingdale ads,Negativo,0.387,0.092,0.52,Neutro,4.950000000000001,0.0,0.0,0.0
+love kindle stacks books trip way loo,Positivo,0.412,0.0,0.588,Neutro,6.20137764522085,0.0,0.0,0.0
+although today keynote rocked every great announcement amp shit us little bit,Negativo,0.232,0.203,0.565,Neutro,4.950000000000001,0.0,0.0,0.0
+much obsession cell phones iphone slave amp forever,Negativo,0.0,0.255,0.745,Neutro,4.9304709703613465,0.0,0.0,0.0
+fuzzball fun amp p,Negativo,0.623,0.0,0.377,Neutro,4.111898935519392,0.0,0.0,0.0
+today good day dislike amp vote office indeed,Negativo,0.252,0.226,0.522,Neutro,4.950000000000001,0.0,0.0,0.0
+got wave sandbox invite extra excited bad class play soon enough io wave,Positivo,0.339,0.185,0.476,Neutro,5.105150545282126,0.0,0.0,0.0
+looks like summize gone many tweets wwdc perhaps,Negativo,0.263,0.0,0.737,Neutro,5.001027967371399,0.0,0.0,0.0
+thanks much one happy kindle winners surprised fabulous thank best kathleen,Positivo,0.844,0.0,0.156,Neutro,4.949999999999998,0.0,0.0,0.0
+man kinda dislike apple right case point iphone gs wish video recorder app please,Negativo,0.273,0.126,0.601,Neutro,4.950000000000003,0.0,0.0,0.0
+kindle amp sony prs like physical device feels good font nice pg turns snappy enuf ui little klunky,Positivo,0.353,0.0,0.647,Neutro,5.552576738946775,0.0,0.0,0.0
+kindle seems best ereader work uk get one,Positivo,0.375,0.0,0.625,Neutro,5.759406546344448,0.0,0.0,0.0
+google addiction thank pointing hahaha,Positivo,0.67,0.0,0.33,Neutro,4.521384297520662,0.0,0.0,0.0
+dearest rich bastards visa card sent work screw little guy like,Negativo,0.452,0.259,0.288,Positivo,6.823648940769566,0.0,0.0,0.0
+excited seeing bobby flay guy fieri tomorrow great american food amp music fest,Positivo,0.371,0.0,0.629,Neutro,5.7190275350967035,0.0,0.0,0.0
+gonna go see bobby flay moro shoreline eat drink gonna good,Positivo,0.225,0.0,0.775,Neutro,4.949999999999998,0.0,0.0,0.0
+wait great american food music festival shoreline tomorrow mmm katz pastrami bobby flay yes please,Positivo,0.528,0.0,0.472,Negativo,2.6342302764049057,0.0,0.0,0.0
+dad ny day ate mesa grill last night met bobby flay much fun except completely lost voice today,Positivo,0.151,0.118,0.731,Neutro,4.950000000000001,0.0,0.007901906967163086,0.007901906967163086
+fighting latex,Negativo,0.0,0.714,0.286,Neutro,5.106157150528012,0.0,0.0,0.0
+love want die latex devil,Negativo,0.372,0.561,0.068,Neutro,6.620564032915234,0.0,0.0,0.0
+hours hours inkscape crashing normally solid rock hours latex complaining slightest thing take,Negativo,0.111,0.125,0.764,Neutro,4.949999999999999,0.0,0.0,0.0
+shit hitting fan iran craziness indeed iranelection,Negativo,0.184,0.496,0.32,Negativo,2.187407027442935,0.0,0.0,0.0
+monday already iran may implode kitchen disaster seems happy nice weekend great whoop,Negativo,0.447,0.173,0.38,Neutro,6.375718332658843,0.0,0.0,0.0
+getting ready test burger receipes weekend bobby flay great receipes try thanks bobby,Positivo,0.487,0.0,0.513,Positivo,7.6591165792658344,0.0,0.0,0.0
+lam love bobby flay favorite rt need place phoenix great peppers,Positivo,0.585,0.0,0.415,Neutro,3.6521321961620457,0.0,0.0,0.0
+created first latex file scratch work well see great time waster,Negativo,0.506,0.0,0.494,Negativo,2.0877551020408163,0.0,0.0,0.0
+using linux loving much nicer windows looking forward using wysiwyg latex editor,Positivo,0.405,0.0,0.595,Neutro,6.107241379310345,0.0,0.0,0.0
+using latex lot typeset mathematics looks hideous,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+note hate word hate pages hate latex said hate latex texn rds come kill,Negativo,0.0,0.684,0.316,Neutro,5.276853133030243,0.0,0.0,0.0
+ahhh back real text editing environment lt latex,Positivo,0.0,0.0,1.0,Neutro,4.95,0.0,0.0,0.0
+trouble iran see hmm iran iran far away flockofseagullsweregeopoliticallycorrect,Negativo,0.0,0.252,0.748,Neutro,4.942258168356671,0.0,0.0,0.0
+reading tweets coming iran whole thing terrifying incredibly sad,Negativo,0.0,0.503,0.497,Positivo,7.939753270232902,0.0,0.0,0.0
